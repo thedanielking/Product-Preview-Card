@@ -82,9 +82,8 @@ body {
     background-color: var(--clr-secondary-200);
 
     /* for this project only */
-    display: grid;
-    place-content: center;
-    margin: 1rem;
+    
+    margin: 4rem auto;
 }
 
 
